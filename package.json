@@ -1,0 +1,19 @@
+{
+  "name": "smile77-static",
+  "version": "1.0.0",
+  "description": "smile static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neurotics77/npm-blog-src.git"
+  },
+  "author": "smile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neurotics77/npm-blog-src/issues"
+  },
+  "homepage": "https://github.com/neurotics77/npm-blog-src#readme"
+}
